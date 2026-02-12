@@ -1,12 +1,10 @@
 Hello,
 
-I am applying for a Customer Support position. I do not have a traditional portfolio for this role, but this page provides relevant links and background.
+I am applying for a Customer Support position at Twin Atlas. While I do not have a traditional portfolio, this page shares my relevant experience and projects.
 
-I have experience working in Customer Support for 4 months, where I handled user inquiries and assisted customers with day-to-day issues.
+I have several months of direct Customer Support experience at a cybersecurity company, where I assisted users with technical issues, billing questions, refunds, and general account support. I learned to manage tickets efficiently, communicate clearly with users, and resolve problems while keeping customer satisfaction high.
 
-My GitHub profile includes college projects that reflect my analytical thinking and problem-solving skills.
-
-I have also worked on a small Roblox game project related to the gaming industry, which helps me understand player behavior, user experience, and community interaction.
+I am also a fast learner who actively engages in projects. For example, I have owned and managed a Shopify store, exploring order management, payments, and store configuration. Additionally, I have developed a Roblox game that has helped me understand gameplay systems, user experience, and player communities. I am confident that my hands-on learning and project involvement allow me to quickly adapt and gain experience equivalent to longer-term roles.
 
 Relevant links:
 
