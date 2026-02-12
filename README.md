@@ -9,5 +9,7 @@ My GitHub profile includes college projects that reflect my analytical thinking 
 I have also worked on a small Roblox game project related to the gaming industry, which helps me understand player behavior, user experience, and community interaction.
 
 Relevant links:
+
 – GitHub profile: https://github.com/Antonio-Chelaru
+
 – Roblox game: https://www.roblox.com/games/81558672067629/Sky-Obby
